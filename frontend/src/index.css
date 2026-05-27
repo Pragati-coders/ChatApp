@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&family=DM+Sans:wght@300;400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background-color: #0f0f1a;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Global scrollbar */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255,0.1);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255,255,255,0.2);
+}
+
+/* Chakra Modal dark override */
+.chakra-modal__content-container .chakra-modal__content {
+  background: #1a1a2e !important;
+  border: 1px solid rgba(255,255,255,0.1) !important;
+}
+
+.chakra-modal__header {
+  color: white !important;
+}
+
+.chakra-modal__body {
+  color: white !important;
+}
+
+/* Chakra Menu dark override */
+.chakra-menu__menulist {
+  background: #1a1a2e !important;
+  border: 1px solid rgba(255,255,255,0.1) !important;
+  border-radius: 12px !important;
+}
+
+.chakra-menu__menuitem {
+  background: transparent !important;
+  color: rgba(255,255,255,0.7) !important;
+}
+
+.chakra-menu__menuitem:hover,
+.chakra-menu__menuitem:focus {
+  background: rgba(255,255,255,0.08) !important;
+  color: white !important;
+}
+
+.chakra-menu__divider {
+  border-color: rgba(255,255,255,0.08) !important;
+}
+
+/* Skeleton dark */
+.chakra-skeleton {
+  background: rgba(255,255,255,0.08) !important;
+}
+
+/* Badge */
+.chakra-badge {
+  font-family: 'DM Sans', sans-serif !important;
+}
