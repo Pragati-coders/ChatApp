@@ -1,4 +1,3 @@
-<img width="960" height="427" alt="Chat Dashboard" src="https://github.com/user-attachments/assets/97f03dbf-c4bd-4a3e-8c0c-b05639b5f081" />
 # 💬 ChatApp
 
 A modern full-stack real-time chat application that enables users to communicate instantly through a responsive and intuitive interface.
@@ -45,11 +44,11 @@ https://github.com/Pragati-coders/ChatApp
 
 ### Login Page
 
-![Login](./screenshots/login.png)
+[Login] <img width="960" height="412" alt="Login Page" src="https://github.com/user-attachments/assets/be993335-c8bc-408d-83be-dfd5e31cf194" />
 
 ### Chat Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+[Dashboard] <img width="960" height="427" alt="Chat Dashboard" src="https://github.com/user-attachments/assets/97f03dbf-c4bd-4a3e-8c0c-b05639b5f081" />
 ---
 
 ## 🛠️ Tech Stack
