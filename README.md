@@ -164,6 +164,6 @@ ChatApp/
 
 ## 👩‍💻 Author
 
-**Pragati Mishra**
+**Pragati**
 
 ⭐ If you like this project, consider starring the repository.
