@@ -171,7 +171,7 @@ ChatApp/
 
 <div align="center">
 
-### 🚀 Built with ❤️ using React, Tailwind CSS, Shadcn UI, and Supabase.
+### 🚀 Built with ❤️ using React, Tailwind CSS, Shadcn UI.
 
 **If you like this project, don't forget to leave a ⭐ on GitHub!**
 
