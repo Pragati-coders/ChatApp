@@ -176,3 +176,11 @@ ChatApp/
 **If you like this project, don't forget to leave a ⭐ on GitHub!**
 
 </div>
+
+# ⭐ Support
+
+If you found this project helpful, please consider giving it a **Star ⭐** on GitHub.
+
+It helps others discover the project and motivates future development.
+
+---
