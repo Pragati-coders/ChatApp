@@ -177,10 +177,3 @@ ChatApp/
 
 </div>
 
-# ⭐ Support
-
-If you found this project helpful, please consider giving it a **Star ⭐** on GitHub.
-
-It helps others discover the project and motivates future development.
-
----
